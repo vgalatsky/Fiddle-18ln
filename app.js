@@ -17,7 +17,7 @@ Ext.define('Task', {
     {name: 'dueDate', type: 'date', dateFormat: 'm/d/Y'},
     {name: 'startDate', type: 'date', dateFormat: 'm/d/Y'}
   ]
-});
+});  
 
 Ext.application({
   name: 'Fiddle',
